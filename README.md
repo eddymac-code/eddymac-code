@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : eddymac11@outlook.com
+- 📫 How to reach me : eoduor59@yahoo.com
 
 <!---
 eddymac-code/eddymac-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
