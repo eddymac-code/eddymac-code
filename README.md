@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eddymac-code
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI & Software development
+- 🌱 I’m currently learning OpenACC
+- 💞️ I’m looking to collaborate on anything AI
 - 📫 How to reach me : eoduor59@yahoo.com
 
 <!---
