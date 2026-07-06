@@ -10,7 +10,7 @@ and software using a vast array of technologies including PHP, Laravel, CodeIgni
 JavaScript,Python, Langchain, FastAPI, Uvicorn, AWS, Docker among others. I have recently been in the AI field but still big on general Software Engineering.
 ---
 - 👀 I’m interested in AI & Software development
-- 🌱 I’m currently learning Java/Spring Boot
+- 🌱 I’m currently specializing in PHP/Laravel, FastAPI, Vue & TypeScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : odwin59@gmail.com
 
