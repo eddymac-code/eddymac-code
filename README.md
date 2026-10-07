@@ -5,8 +5,8 @@
 ## Profile
 ---
 
-- A software developer based in Nairobi, Kenya. I have 7 years of experience in building and maintaining web applications
-and software using a vast array of technologies including PHP, Laravel, CodeIgniter, Vue, MySQL, PostgreSQL, HTML5, CSS3, 
+- A software developer based in Nairobi, Kenya. I have 6 years of experience in building and maintaining web applications
+and software using a vast array of technologies including PHP, Laravel, Vue, Livewire, MySQL, PostgreSQL, HTML5, CSS3, 
 JavaScript,Python, Langchain, FastAPI, Uvicorn, AWS, Docker among others. I have recently been in the AI field but still big on general Software Engineering.
 ---
 - 👀 I’m interested in AI & Software development
